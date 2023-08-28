@@ -4,3 +4,85 @@
     box-sizing: border-box;
 }
 
+header {
+    /* height: 50px; */
+    background-color: lightblue;
+    margin-bottom: 2%;
+}
+
+.banner-img {
+    background-image: url(../img/pattern.png);
+    background-repeat: repeat-x;
+    background-size: 35%;
+    padding: 2%;
+}
+
+.logo {
+    width: 200px;
+}
+
+.autore {
+    color: #8c8c8c;
+    margin:2px;
+    margin-bottom: 15px;
+}
+
+.immagini-tim {
+font-size: smaller;
+}
+
+
+.paragrafo {
+    margin-top: 40px;
+    margin-bottom: 20px
+}
+
+.margine-liste {
+    margin-left: 25px;
+    margin-bottom: 20px;
+}
+
+#tabella {
+   border-collapse: collapse;
+   margin-bottom: 20px;
+}
+
+.titoli-tabella {
+    background-color: rgb(49, 190, 255);
+}
+
+.colore-colonna {
+    background-color: lightblue;
+}
+
+.prima-colonna, .seconda-colonna {
+    width: 25%;
+    height: 3em;
+}
+
+.margine-paragrafo {
+    margin-bottom: 40px;
+}
+
+.consigli {
+    color: #8c8c8c;
+    margin-bottom: 5px;
+}
+
+.testo1-background {
+    margin-bottom: 20px;
+    background-image: url(../img/monitor.jpg);
+    background-repeat: no-repeat;
+    width: 240px;
+    height: 200px;
+    color: white;
+}
+
+.testo2-background {
+    margin: 0px;
+    background-image: url(../img/graph.jpg);
+    background-repeat: no-repeat;
+    width: 240px;
+    height: 200px;
+    color: white;
+}
